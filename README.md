@@ -1,9 +1,18 @@
-# 3D Segmentation
-End-to-end pipeline for 3D medical image segmentation of the heart. Implements two augmentation strategies—geometric/intensity (flip, rotate, shift, jitter) and elastic deformation—trains 3D U-Net, and compares baseline vs augmented models using Dice, Hausdorff, sensitivity, and precision.
+# 3D medical image segmentation of the heart
+This project implements and compares augmentation techniques for medical image segmentation using a standardized 3D U-Net. The goal is to examine how different augmentation techniques affect model generalization on small volumetric datasets.
+
+The repository contains:
+
+- Full code for data loading, preprocessing, augmentation, training, evaluation, and inference
+- Generated visualizations (augmented samples, loss curves, predicted segmentations)
+- README.md with instructions
+- requirements.txt for environment setup
+- Experimental results for baseline, geometric–intensity augmentation, and elastic deformation augmentation
+
 
 ```
 `
-/content/3D-medical-image-segmentation-of-the-heart
+/content/3D_segmentation
 ├── Logs                                    # Stores TensorBoard event files for tracking training progress and metrics.
 │   ├── Baseline
 │   │   └── events.out.tfevents.1763888258.dd0ba72e8b53.2208.0.v2
