@@ -1,0 +1,4 @@
+,Dice,Precision,Sensitivity,Hausdorff distanc
+Baseline,0.8923,0.8502,0.9401,2.426
+Intensity_Augmentation,0.9233,0.8971,0.9512,1.7154
+Elastic_Deformation_Augmentation,0.9009,0.8933,0.9099,2.2361
