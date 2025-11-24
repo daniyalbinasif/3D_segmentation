@@ -1,5 +1,4 @@
-# 3D Medical Image Segmentation of the Heart
-<h2 align="center">Detailed Setup Instructions</h2>
+#  <h2 align="center">3D Medical Image Segmentation of the Heart</h2>
 
 This project implements and compares augmentation techniques for medical image segmentation using a standardized 3D U-Net. The goal is to examine how different augmentation techniques affect model generalization on small volumetric datasets.
 
