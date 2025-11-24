@@ -1,0 +1,4 @@
+case,experiment,Dice,Precision,Sensitivity,Hausdorff distanc
+pat_018.nii,Intensity_Augmentation,0.920275154,0.904105196,0.937034047,2
+pat_019.nii,Intensity_Augmentation,0.915421861,0.882715232,0.95064546,1.732050808
+pat_020.nii,Intensity_Augmentation,0.934200976,0.904521882,0.9658938,1.414213562
