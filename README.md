@@ -25,11 +25,8 @@ The main objectives of this project are as follows:
 ├── report.pdf 
 ├── Logs                                    # TensorBoard for tracking training progress of each experiment.
 │   ├── Baseline
-│   │   └── events.out.tfevents.1763888258.dd0ba72e8b53.2208.0.v2
 │   ├── Elastic Deformation
-│   │   └── events.out.tfevents.1763897637.dd0ba72e8b53.56478.0.v2
-│   └── Geometric-Intensity
-│   └── events.out.tfevents.1763892690.dd0ba72e8b53.28022.0.v2                       
+│   └── Geometric-Intensity                      
 ├── Results                                 
 │   ├── Baseline
 │   │   ├── Base_Loss.png                   # loss and dice score plot over each epochs.
