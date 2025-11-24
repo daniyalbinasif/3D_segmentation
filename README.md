@@ -22,7 +22,7 @@ The main objectives of this project are as follows:
 `
 ├── README.md                               
 ├── requirements.txt
-├── report.pdf 
+├── Report.pdf 
 ├── Logs                                    # TensorBoard for tracking training progress of each experiment.
 │   ├── Baseline
 │   ├── Elastic Deformation
